@@ -13,10 +13,12 @@ In each script is a comment block still left in of what needs to be done to solv
 
 ## Working with the code
 - Python3 was used along with the modules for pytest, pylint, requests and pandas.
-- To install these please use the command below.
-**pip3 install -r requirements.txt**
-- Then can run the respective files using the command **python3 test_x.py**
-- for the testing files use the command pytest **test_test_x.py**
+- To install these please use the command:
+- **pip3 install -r requirements.txt**
+- Then can run the respective files using the command:
+- **python3 test_x.py**
+- for the testing files use the command:
+- **pytest test_test_x.py**
 
 ----------------------------------------------------------------------------------
 # Original instructions of the 3 tests(assessment-Ministry of Justice).
